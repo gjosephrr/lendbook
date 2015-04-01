@@ -1,0 +1,2 @@
+SimpleAuthenticator$1
+SimpleAuthenticator
